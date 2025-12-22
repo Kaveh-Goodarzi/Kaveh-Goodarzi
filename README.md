@@ -1,5 +1,4 @@
-## Hi there👋 I'm Kaveh
-
+##Hi There👋 I'm Kaveh
 <!-- Profile README | Minimal Professional Hacker-Green -->
 
 <div align="center">
@@ -7,6 +6,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00140a,100:00ff99&height=170&section=header&text=Kaveh%20Goodarzi&fontSize=36&fontColor=00ff99" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=520&lines=Junior+Software+Developer;Go-first+Backend+%26+Web;Linux+User+%7C+Learning+Every+Day;Focused+on+Long-Term+Growth" />
+
+<p align="center">
+  <a href="https://t.me/mainFunc">
+    <img src="https://img.shields.io/badge/Telegram-0f0f0f?style=for-the-badge&logo=telegram&logoColor=00ff99" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaveh-goodarzi-0b856a364">
+    <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00ff99" />
+  </a>
+</p>
 
 </div>
 
@@ -27,7 +35,7 @@ These are the tools I actively use and feel comfortable with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,js,html,css,linux,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=go,python,js,html,css,linux&perline=6" />
 
 </div>
 
@@ -65,17 +73,8 @@ Things I am actively studying and practicing:
 
 ---
 
-
 ## Goal
 
 > Become a **professional software engineer** through consistency, discipline, and real-world practice.
-
----
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Kaveh-Goodarzi.Kaveh-Goodarzi&color=00ff99" />
-
-</div>
 
 <!-- End of README -->
